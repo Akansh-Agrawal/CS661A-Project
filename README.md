@@ -7,7 +7,7 @@ The folder ```Datasets (Preprocessed)``` contains the preprocessed dataset. The 
 
 # Members :
 
-Abhinav Anand
-Akansh Agrawal
-Samanvay Lakhotia
+Abhinav Anand \\
+Akansh Agrawal \\
+Samanvay Lakhotia \\
 Anubhav Kalyani
